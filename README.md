@@ -3,9 +3,16 @@
 Repository ini berisi source code untuk aplikasi akademik sederhana berbasis HTML dan CSS. Proyek ini dikerjakan sebagai bagian dari praktikum Collaborative Computing menggunakan Git dan GitHub.
 
 ## Anggota Kelompok
-1. **[Nama Anda]** - [Tugas Anda, misal: Ketua / Membuat Layout / dll]
-2. **[Nama Anggota 2]** - [Tugas Anggota 2]
-3. **[Nama Anggota 3]** - [Tugas Anggota 3]
+1. **Rivaldi** - Project Manager
+2. **Peba** - Backend
+3. **Lulu** - Backend
+4. **Dzaky** - Frontend
+5. **Rizky** - Frontend
+6. **Farhan** - Database
+7. **Denies** - Database
+8. **Hermawan** - Dokumentasi
+9. **Sahlan** - Testing
+10. **Zirlly** - Analis
 
 ## Struktur File
 * `index.html` - Halaman dashboard utama
